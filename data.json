@@ -1,0 +1,844 @@
+{
+  "queries": [
+    {
+      "queries": [
+        "cats",
+        "felines"
+      ],
+      "answer": "Cats are domesticated mammals."
+    },
+    {
+      "queries": [
+        "cat",
+        "kitty"
+      ],
+      "answer": "A cat is a small, typically furry, carnivorous mammal."
+    },
+    {
+      "queries": [
+        "kittens"
+      ],
+      "answer": "Kittens are baby cats."
+    },
+    {
+      "queries": [
+        "dogs",
+        "canines"
+      ],
+      "answer": "Dogs are commonly referred to as man's best friend and are domesticated mammals."
+    },
+    {
+      "queries": [
+        "dog",
+        "puppy"
+      ],
+      "answer": "A dog is a domesticated carnivorous mammal, known for its loyalty and companionship with humans."
+    },
+    {
+      "queries": [
+        "puppies",
+        "pups"
+      ],
+      "answer": "Puppies are young dogs."
+    },
+    {
+      "queries": [
+        "birds",
+        "avian creatures"
+      ],
+      "answer": "Birds are feathered, winged, two-legged creatures with beaks."
+    },
+    {
+      "queries": [
+        "parrots",
+        "parakeets"
+      ],
+      "answer": "Parrots are colorful, intelligent birds often kept as pets."
+    },
+    {
+      "queries": [
+        "fish",
+        "aquatic animals"
+      ],
+      "answer": "Fish are cold-blooded aquatic animals with scales and gills."
+    },
+    {
+      "queries": [
+        "goldfish",
+        "koi"
+      ],
+      "answer": "Goldfish and koi are popular species of ornamental fish kept in aquariums and ponds."
+    },
+    {
+      "queries": [
+        "horses",
+        "equines"
+      ],
+      "answer": "Horses are large, four-legged mammals domesticated for riding, racing, and other purposes."
+    },
+    {
+      "queries": [
+        "horse breeds",
+        "thoroughbreds"
+      ],
+      "answer": "Thoroughbreds are a specific breed of horse known for their speed and agility."
+    },
+    {
+      "queries": [
+        "hamsters",
+        "rodents"
+      ],
+      "answer": "Hamsters are small rodents often kept as pets in cages."
+    },
+    {
+      "queries": [
+        "rabbits",
+        "bunnies"
+      ],
+      "answer": "Rabbits are small mammals known for their long ears and hopping gait."
+    },
+    {
+      "queries": [
+        "reptiles",
+        "lizards"
+      ],
+      "answer": "Reptiles are cold-blooded vertebrates, and lizards are a type of reptile."
+    },
+    {
+      "queries": [
+        "snakes",
+        "serpents"
+      ],
+      "answer": "Snakes are legless reptiles with elongated bodies."
+    },
+    {
+      "queries": [
+        "elephants",
+        "pachyderms"
+      ],
+      "answer": "Elephants are large mammals known for their long trunks and tusks."
+    },
+    {
+      "queries": [
+        "elephant species",
+        "African elephants"
+      ],
+      "answer": "African elephants are one of the two main species of elephants and are characterized by their larger ears."
+    },
+    {
+      "queries": [
+        "dolphins",
+        "marine mammals"
+      ],
+      "answer": "Dolphins are highly intelligent marine mammals known for their playful behavior."
+    },
+    {
+      "queries": [
+        "whales",
+        "cetaceans"
+      ],
+      "answer": "Whales are large marine mammals, and cetaceans include whales, dolphins, and porpoises."
+    },
+    {
+      "queries": [
+        "tigers",
+        "big cats"
+      ],
+      "answer": "Tigers are large felines known for their distinctive striped coat patterns."
+    },
+    {
+      "queries": [
+        "lion",
+        "king of the jungle"
+      ],
+      "answer": "Lions are majestic big cats and are often referred to as the king of the jungle."
+    },
+    {
+      "queries": [
+        "bears",
+        "ursids"
+      ],
+      "answer": "Bears are large mammals characterized by their stocky build and omnivorous diet."
+    },
+    {
+      "queries": [
+        "penguins",
+        "flightless birds"
+      ],
+      "answer": "Penguins are flightless birds that are well-adapted to life in the water."
+    },
+    {
+      "queries": [
+        "insects",
+        "entomology"
+      ],
+      "answer": "Insects are small, six-legged arthropods, and entomology is the scientific study of insects."
+    },
+    {
+      "queries": [
+        "bees",
+        "pollinators"
+      ],
+      "answer": "Bees are flying insects known for their role in pollination and honey production."
+    },
+    {
+      "queries": [
+        "ants",
+        "social insects"
+      ],
+      "answer": "Ants are social insects that live in colonies and work together in a highly organized manner."
+    },
+    {
+      "queries": [
+        "butterflies",
+        "lepidoptera"
+      ],
+      "answer": "Butterflies are colorful insects belonging to the order Lepidoptera."
+    },
+    {
+      "queries": [
+        "spiders",
+        "arachnids"
+      ],
+      "answer": "Spiders are eight-legged arachnids known for weaving silk webs."
+    },
+    {
+      "queries": [
+        "sharks",
+        "marine predators"
+      ],
+      "answer": "Sharks are large fish with cartilaginous skeletons and are apex predators in the ocean."
+    },
+    {
+      "queries": [
+        "octopuses",
+        "cephalopods"
+      ],
+      "answer": "Octopuses are highly intelligent marine animals belonging to the cephalopod class."
+    },
+    {
+      "queries": [
+        "elephant seals",
+        "pinnipeds"
+      ],
+      "answer": "Elephant seals are large, aquatic pinnipeds known for their trunk-like proboscis."
+    },
+    {
+      "queries": [
+        "snails",
+        "mollusks"
+      ],
+      "answer": "Snails are gastropod mollusks with coiled shells."
+    },
+    {
+      "queries": [
+        "starfish",
+        "echinoderms"
+      ],
+      "answer": "Starfish are marine echinoderms with radial symmetry and often five arms."
+    },
+    {
+      "queries": [
+        "koalas",
+        "marsupials"
+      ],
+      "answer": "Koalas are herbivorous marsupials native to Australia."
+    },
+    {
+      "queries": [
+        "pandas",
+        "bamboo bears"
+      ],
+      "answer": "Pandas are bears native to China, known for their distinctive black and white fur."
+    },
+    {
+      "queries": [
+        "wolves",
+        "canids"
+      ],
+      "answer": "Wolves are carnivorous mammals and are part of the canine family."
+    },
+    {
+      "queries": [
+        "foxes",
+        "vulpines"
+      ],
+      "answer": "Foxes are small to medium-sized canids with a bushy tail and a pointed snout."
+    },
+    {
+      "queries": [
+        "deer",
+        "ungulates"
+      ],
+      "answer": "Deer are hoofed mammals belonging to the ungulate order."
+    },
+    {
+      "queries": [
+        "giraffes",
+        "long-necked mammals"
+      ],
+      "answer": "Giraffes are large, long-necked mammals native to Africa."
+    },
+    {
+      "queries": [
+        "rhinoceros",
+        "rhinos"
+      ],
+      "answer": "Rhinoceros, or rhinos, are large herbivorous mammals with one or two horns on their snouts."
+    },
+    {
+      "queries": [
+        "cheetahs",
+        "fastest land animals"
+      ],
+      "answer": "Cheetahs are known for their incredible speed and are the fastest land animals."
+    },
+    {
+      "queries": [
+        "owls",
+        "nocturnal birds"
+      ],
+      "answer": "Owls are nocturnal birds of prey known for their distinctive hooting calls."
+    },
+    {
+      "queries": [
+        "bald eagles",
+        "national bird of the United States"
+      ],
+      "answer": "Bald eagles are large birds of prey and the national bird and symbol of the United States."
+    },
+    {
+      "queries": [
+        "bats",
+        "flying mammals"
+      ],
+      "answer": "Bats are the only mammals capable of sustained flight."
+    },
+    {
+      "queries": [
+        "hedgehogs",
+        "spiny mammals"
+      ],
+      "answer": "Hedgehogs are small spiny mammals with a protective coat of spines."
+    },
+    {
+      "queries": [
+        "iguanas",
+        "lizards"
+      ],
+      "answer": "Iguanas are large, herbivorous lizards often kept as exotic pets."
+    },
+    {
+      "queries": [
+        "armadillos",
+        "placental mammals"
+      ],
+      "answer": "Armadillos are armored placental mammals native to the Americas."
+    },
+    {
+      "queries": [
+        "space exploration",
+        "NASA"
+      ],
+      "answer": "Space exploration involves the discovery and exploration of celestial structures in outer space, and NASA (National Aeronautics and Space Administration) is a key organization dedicated to space research."
+    },
+    {
+      "queries": [
+        "artificial intelligence",
+        "machine learning"
+      ],
+      "answer": "Artificial intelligence (AI) is the simulation of human intelligence in machines, and machine learning is a subset of AI that involves the development of algorithms allowing computers to learn from data."
+    },
+    {
+      "queries": [
+        "climate change",
+        "global warming"
+      ],
+      "answer": "Climate change refers to long-term changes in the average weather patterns on Earth, and global warming is a specific aspect of climate change related to the increase in Earth's average surface temperature."
+    },
+    {
+      "queries": [
+        "history",
+        "ancient civilizations"
+      ],
+      "answer": "History is the study of past events, and ancient civilizations like the Greeks, Romans, and Egyptians played significant roles in shaping the course of history."
+    },
+    {
+      "queries": [
+        "technology",
+        "innovation"
+      ],
+      "answer": "Technology encompasses tools, machinery, and systems developed through scientific knowledge, and innovation involves the creation and implementation of new ideas or methods."
+    },
+    {
+      "queries": [
+        "literature",
+        "classic novels"
+      ],
+      "answer": "Literature is written works, and classic novels are enduring literary works that have withstood the test of time, often recognized for their cultural and artistic significance."
+    },
+    {
+      "queries": [
+        "music",
+        "genres"
+      ],
+      "answer": "Music is an art form that uses sound and rhythm, and genres like classical, rock, jazz, and hip-hop represent diverse styles within the musical landscape."
+    },
+    {
+      "queries": [
+        "geography",
+        "natural landmarks"
+      ],
+      "answer": "Geography studies Earth's physical features, and natural landmarks such as mountains, rivers, and deserts are key elements in understanding the planet's diverse topography."
+    },
+    {
+      "queries": [
+        "sports",
+        "Olympic Games"
+      ],
+      "answer": "Sports involve physical activity and skill, and the Olympic Games are a global sporting event where athletes from various countries compete in a wide range of sports."
+    },
+    {
+      "queries": [
+        "languages",
+        "linguistics"
+      ],
+      "answer": "Languages are systems of communication, and linguistics is the scientific study of language, including its structure, meaning, and use."
+    },
+    {
+      "queries": [
+        "architecture",
+        "famous buildings"
+      ],
+      "answer": "Architecture is the art and science of designing and constructing buildings, and famous buildings like the Eiffel Tower, Taj Mahal, and Pyramids of Giza are iconic examples of architectural achievements."
+    },
+    {
+      "queries": [
+        "philosophy",
+        "existentialism"
+      ],
+      "answer": "Philosophy is the study of fundamental questions about existence, knowledge, values, reason, mind, and language, and existentialism is a philosophical movement emphasizing individual existence and freedom."
+    },
+    {
+      "queries": [
+        "psychology",
+        "behavioral psychology"
+      ],
+      "answer": "Psychology is the scientific study of the mind and behavior, and behavioral psychology focuses on understanding and modifying human behavior."
+    },
+    {
+      "queries": [
+        "medicine",
+        "vaccinations"
+      ],
+      "answer": "Medicine involves the diagnosis, treatment, and prevention of diseases, and vaccinations are a crucial aspect of public health, providing immunity against specific infectious diseases."
+    },
+    {
+      "queries": [
+        "film",
+        "cinematic genres"
+      ],
+      "answer": "Film is a visual art form, and cinematic genres like drama, comedy, science fiction, and documentary categorize movies based on their themes and storytelling approaches."
+    },
+    {
+      "queries": [
+        "environmental conservation",
+        "sustainability"
+      ],
+      "answer": "Environmental conservation is the protection and preservation of natural resources, and sustainability focuses on meeting present needs without compromising the ability of future generations to meet their own needs."
+    },
+    {
+      "queries": [
+        "astronomy",
+        "cosmology"
+      ],
+      "answer": "Astronomy is the study of celestial objects, and cosmology is the branch of astronomy that explores the origin and evolution of the universe."
+    },
+    {
+      "queries": [
+        "computer science",
+        "programming languages"
+      ],
+      "answer": "Computer science involves the study of computers and computational systems, and programming languages like Python, Java, and C++ are tools used for writing software."
+    },
+    {
+      "queries": [
+        "political science",
+        "democracy"
+      ],
+      "answer": "Political science examines political systems and governance, and democracy is a form of government in which power is vested in the hands of the people."
+    },
+    {
+      "queries": [
+        "oceanography",
+        "marine ecosystems"
+      ],
+      "answer": "Oceanography is the scientific study of the ocean, and marine ecosystems encompass the diverse communities of organisms living in the sea."
+    },
+    {
+      "queries": [
+        "economics",
+        "macroeconomics"
+      ],
+      "answer": "Economics is the study of the production, distribution, and consumption of goods and services, and macroeconomics focuses on the overall performance of an economy."
+    },
+    {
+      "queries": [
+        "psychiatry",
+        "mental health"
+      ],
+      "answer": "Psychiatry is a medical specialty dealing with mental disorders, and mental health encompasses emotional, psychological, and social well-being."
+    },
+    {
+      "queries": [
+        "education",
+        "online learning"
+      ],
+      "answer": "Education is the process of acquiring knowledge and skills, and online learning involves using digital technology to facilitate education outside of traditional classrooms."
+    },
+    {
+      "queries": [
+        "fashion",
+        "designer brands"
+      ],
+      "answer": "Fashion is a popular aesthetic expression, and designer brands like Chanel, Gucci, and Prada are renowned for their influence on style and trends."
+    },
+    {
+      "queries": [
+        "culinary arts",
+        "international cuisine"
+      ],
+      "answer": "Culinary arts involve the preparation and presentation of food, and international cuisine reflects the diverse culinary traditions from around the world."
+    },
+    {
+      "queries": [
+        "physics",
+        "quantum mechanics"
+      ],
+      "answer": "Physics is the study of matter, energy, and the fundamental forces of nature, and quantum mechanics is a branch of physics dealing with the behavior of particles at the atomic and subatomic levels."
+    },
+    {
+      "queries": [
+        "social media",
+        "platforms"
+      ],
+      "answer": "Social media are online platforms that facilitate the creation and sharing of content, connecting people globally."
+    },
+    {
+      "queries": [
+        "robotics",
+        "autonomous vehicles"
+      ],
+      "answer": "Robotics involves the design and construction of robots, and autonomous vehicles are self-driving cars that use robotics and AI technologies."
+    },
+    {
+      "queries": [
+        "architecture",
+        "architectural styles"
+      ],
+      "answer": "Architecture is the art and science of designing and constructing buildings, and architectural styles like Gothic, Renaissance, and Modernism represent distinct design approaches."
+    },
+    {
+      "queries": [
+        "chemistry",
+        "organic chemistry"
+      ],
+      "answer": "Chemistry is the study of matter and its properties, and organic chemistry focuses on the structure, properties, and reactions of organic compounds."
+    },
+    {
+      "queries": [
+        "social justice",
+        "equality"
+      ],
+      "answer": "Social justice is the fair and just relation between the individual and society, and equality involves ensuring that individuals have equal rights, opportunities, and treatment."
+    },
+    {
+      "queries": [
+        "robotics",
+        "human-robot interaction"
+      ],
+      "answer": "Robotics involves the design and operation of robots, and human-robot interaction explores how humans and robots can collaborate and communicate effectively."
+    },
+    {
+      "queries": [
+        "neuroscience",
+        "brain function"
+      ],
+      "answer": "Neuroscience is the scientific study of the nervous system, and understanding brain function is a central focus, addressing topics like cognition, emotions, and sensory processing."
+    },
+    {
+      "queries": [
+        "travel",
+        "bucket list destinations"
+      ],
+      "answer": "Travel involves journeying to different places, and bucket list destinations are often dream locations that individuals aspire to visit during their lifetime."
+    },
+    {
+      "queries": [
+        "space",
+        "black holes"
+      ],
+      "answer": "Space is the vast, seemingly infinite expanse beyond Earth, and black holes are regions of spacetime exhibiting gravitational effects so strong that nothing, not even light, can escape."
+    },
+    {
+      "queries": [
+        "architecture",
+        "sustainable design"
+      ],
+      "answer": "Architecture encompasses the design and construction of buildings, and sustainable design involves creating structures that minimize their impact on the environment."
+    },
+    {
+      "queries": [
+        "geology",
+        "volcanoes"
+      ],
+      "answer": "Geology is the study of Earth's structure and processes, and volcanoes are geological features that result from the eruption of magma from beneath the Earth's crust."
+    },
+    {
+      "queries": [
+        "urban planning",
+        "smart cities"
+      ],
+      "answer": "Urban planning involves the organization and design of urban areas, and smart cities use technology and data to enhance efficiency, sustainability, and quality of life."
+    },
+    {
+      "queries": [
+        "art",
+        "impressionism"
+      ],
+      "answer": "Art encompasses various forms of creative expression, and impressionism is an art movement characterized by capturing the fleeting effects of light and color."
+    },
+    {
+      "queries": [
+        "communication",
+        "nonverbal cues"
+      ],
+      "answer": "Communication involves the exchange of information, and nonverbal cues, such as body language and facial expressions, play a significant role in conveying messages."
+    },
+    {
+      "queries": [
+        "paleontology",
+        "dinosaurs"
+      ],
+      "answer": "Paleontology is the study of prehistoric life, and dinosaurs are a group of reptiles that dominated the Earth millions of years ago."
+    },
+    {
+      "queries": [
+        "architecture",
+        "minimalism"
+      ],
+      "answer": "Architecture is the art and science of designing and constructing buildings, and minimalism is a design approach characterized by simplicity, functionality, and the use of minimal elements."
+    },
+    {
+      "queries": [
+        "futurology",
+        "emerging technologies"
+      ],
+      "answer": "Futurology explores possible future scenarios, and emerging technologies are innovations that have the potential to significantly impact various aspects of society."
+    },
+    {
+      "queries": [
+        "nutrition",
+        "healthy eating"
+      ],
+      "answer": "Nutrition is the science of food and its impact on health, and healthy eating involves making choices that contribute to overall well-being."
+    },
+    {
+      "queries": [
+        "linguistics",
+        "syntax"
+      ],
+      "answer": "Linguistics is the scientific study of language, and syntax is a subfield that examines the structure and arrangement of words to create meaningful sentences."
+    },
+    {
+      "queries": [
+        "music",
+        "classical composers"
+      ],
+      "answer": "Music is an art form that uses sound, and classical composers like Mozart, Beethoven, and Bach are celebrated for their timeless and influential compositions."
+    },
+    {
+      "queries": [
+        "psychology",
+        "cognitive psychology"
+      ],
+      "answer": "Psychology is the study of the mind and behavior, and cognitive psychology focuses on mental processes such as perception, memory, and problem-solving."
+    },
+    {
+      "queries": [
+        "environmental science",
+        "biodiversity"
+      ],
+      "answer": "Environmental science is the study of the natural environment, and biodiversity refers to the variety of life on Earth, including species diversity and genetic diversity."
+    },
+    {
+      "queries": [
+        "astronomy",
+        "constellations"
+      ],
+      "answer": "Astronomy is the study of celestial objects, and constellations are patterns of stars in the night sky, often forming recognizable shapes and figures."
+    },
+    {
+      "queries": [
+        "sports",
+        "Olympic athletes"
+      ],
+      "answer": "Sports involve physical activity and competition, and Olympic athletes are elite competitors who represent their countries in the Olympic Games."
+    },
+    {
+      "queries": [
+        "literature",
+        "Shakespearean plays"
+      ],
+      "answer": "Literature is written works, and Shakespearean plays, such as Romeo and Juliet and Hamlet, are timeless examples of dramatic storytelling."
+    },
+    {
+      "queries": [
+        "technology",
+        "artificial intelligence applications"
+      ],
+      "answer": "Technology encompasses tools and systems developed through scientific knowledge, and artificial intelligence applications include virtual assistants, image recognition, and natural language processing."
+    },
+    {
+      "queries": [
+        "film",
+        "film genres"
+      ],
+      "answer": "Film is a visual art form, and film genres categorize movies based on their themes, styles, and storytelling approaches, such as action, comedy, drama, and horror."
+    },
+    {
+      "queries": [
+        "geography",
+        "landforms"
+      ],
+      "answer": "Geography studies Earth's physical features, and landforms include mountains, valleys, plains, and other natural features that shape the planet's surface."
+    },
+    {
+      "queries": [
+        "languages",
+        "language families"
+      ],
+      "answer": "Languages are systems of communication, and language families group languages with common ancestry, such as the Indo-European language family."
+    },
+    {
+      "queries": [
+        "architecture",
+        "ancient architecture"
+      ],
+      "answer": "Architecture is the art and science of designing and constructing buildings, and ancient architecture, like the pyramids of Egypt and the Parthenon, reflects the building techniques and styles of past civilizations."
+    },
+    {
+      "queries": [
+        "philosophy",
+        "ethics"
+      ],
+      "answer": "Philosophy is the study of fundamental questions about existence, knowledge, values, reason, mind, and language, and ethics explores concepts of right and wrong behavior."
+    },
+    {
+      "queries": [
+        "psychology",
+        "emotional intelligence"
+      ],
+      "answer": "Psychology is the scientific study of the mind and behavior, and emotional intelligence involves the ability to recognize, understand, and manage one's own emotions and the emotions of others."
+    },
+    {
+      "queries": [
+        "medicine",
+        "medical breakthroughs"
+      ],
+      "answer": "Medicine involves the diagnosis, treatment, and prevention of diseases, and medical breakthroughs represent significant advancements in healthcare, such as the development of vaccines and life-saving treatments."
+    },
+    {
+      "queries": [
+        "environmental conservation",
+        "renewable energy"
+      ],
+      "answer": "Environmental conservation is the protection and preservation of natural resources, and renewable energy sources, such as solar and wind power, aim to reduce reliance on non-renewable resources."
+    },
+    {
+      "queries": [
+        "astronomy",
+        "planets"
+      ],
+      "answer": "Astronomy is the study of celestial objects, and planets are large celestial bodies that orbit stars, with Earth being one of the planets in our solar system."
+    },
+    {
+      "queries": [
+        "computer science",
+        "software development"
+      ],
+      "answer": "Computer science involves the study of computers and computational systems, and software development is the process of creating, testing, and maintaining computer programs."
+    },
+    {
+      "queries": [
+        "political science",
+        "political ideologies"
+      ],
+      "answer": "Political science examines political systems and governance, and political ideologies represent sets of beliefs and values that influence political behavior and decision-making."
+    },
+    {
+      "queries": [
+        "oceanography",
+        "ocean currents"
+      ],
+      "answer": "Oceanography is the scientific study of the ocean, and ocean currents are continuous, directed movements of seawater influenced by factors such as wind, temperature, and salinity."
+    },
+    {
+      "queries": [
+        "economics",
+        "supply and demand"
+      ],
+      "answer": "Economics is the study of the production, distribution, and consumption of goods and services, and the law of supply and demand is a fundamental economic principle determining prices and market equilibrium."
+    },
+    {
+      "queries": [
+        "psychiatry",
+        "mental health disorders"
+      ],
+      "answer": "Psychiatry is a medical specialty dealing with mental disorders, and mental health disorders encompass a range of conditions affecting thoughts, emotions, and behavior."
+    },
+    {
+      "queries": [
+        "education",
+        "educational technology"
+      ],
+      "answer": "Education is the process of acquiring knowledge and skills, and educational technology involves the use of digital tools and resources to enhance learning experiences."
+    },
+    {
+      "queries": [
+        "iphone 15"
+      ],
+      "answer": [
+        "iPhone 15 and iPhone 15 Plus - Apple Dynamic Island stays on top of it all. New 48MP camera. Super-high-resolution photos. 2x Telephoto. Durable color-infused glass and aluminum design. Charging as easy as USB-C. Click and turn to explore iPhone. Dynamic Island. For when things just pop up. Dynamic Island. For when things just pop up.",
+        "iPhone 15 Pro Max has the longest optical zoom in iPhone ever. Far out. All-new Action button. What will yours do? Click and turn to explore iPhone. iPhone. Forged in titanium. iPhone. Forged in titanium. Trifecta of tough. Remarkably resistant. A display of true intelligence. StandBy for something special. A17 Pro chip. A monster win for gaming.",
+        "Dynamic Island stays on top of it all. New 48MP camera. Super-high-resolution photos. 2x Telephoto. Durable colour-infused glass and aluminium design. Charging as easy as USB-C. Take a closer look. 15.54 cm (6.1\") iPhone 15 1 in five colours Explore the full story. Dynamic Island. For when things just pop up.",
+        "Apple's entry level iPhones, the iPhone 15 and iPhone 15 Plus, cost $799 and $899, respectively. Here's a closer look at what's new: iPhone 15 lineup is packed with subtle design changes The...",
+        "The 6.1-inch iPhone 15 (from $799) and 6.7-inch iPhone 15 Plus (from $899) gets the Dynamic Island, previously a feature exclusive to the iPhone 14 Pro. This allows you to see alerts and live..."
+      ]
+    },
+    {
+      "queries": [
+        "\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043b\u0435\u0442 \u0436\u0438\u0432\u0443\u0442 \u043a\u043e\u0448\u043a\u0438"
+      ],
+      "answer": [
+        "\u041f\u043e\u0440\u043e\u0434\u044b \u043a\u043e\u0448\u0435\u043a-\u0434\u043e\u043b\u0433\u043e\u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0412\u043e\u043f\u0440\u043e\u0441 \u043e \u0442\u043e\u043c, \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0436\u0438\u0432\u0443\u0442 \u043a\u043e\u0448\u043a\u0438, \u0432\u043e\u043b\u043d\u0443\u0435\u0442 \u043c\u043d\u043e\u0433\u0438\u0445 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u0432 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u0432 \u0438\u043b\u0438 \u0442\u0435\u0445, \u043a\u0442\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0435\u0442 \u0437\u0430\u0432\u0435\u0441\u0442\u0438 \u0441\u0435\u0431\u0435 \u043f\u0443\u0448\u0438\u0441\u0442\u043e\u0433\u043e \u0447\u0435\u0442\u0432\u0435\u0440\u043e\u043d\u043e\u0433\u043e\u0433\u043e \u0434\u0440\u0443\u0433\u0430. \u0415\u0441\u043b\u0438 \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c \u043a\u0440\u0430\u0442\u043a\u043e, \u0442\u043e 12-15 \u043b\u0435\u0442. \u041d\u043e \u044d\u0442\u043e \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u044b\u0435 \u0446\u0438\u0444\u0440\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0435 \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044e\u0442 \u043c\u043d\u043e\u0433\u0438\u0435 \u0432\u0430\u0436\u043d\u044b\u0435 \u0444\u0430\u043a\u0442\u043e\u0440\u044b, \u0432\u043b\u0438\u044f\u044e\u0449\u0438\u0435 \u043d\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438 \u043b\u044e\u0431\u0438\u043c\u0446\u0430.",
+        "\u0421\u0435\u0433\u043e\u0434\u043d\u044f \u0441\u0440\u0435\u0434\u043d\u044f\u044f \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438 \u043a\u043e\u0448\u0435\u043a, \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0445 \u0434\u043e\u043c\u0430, \u0432\u043e\u0437\u0440\u043e\u0441\u043b\u0430 \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c \u0432 \u0434\u0432\u0430 \u0440\u0430\u0437\u0430 \u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 12-15 \u043b\u0435\u0442. \u0423\u0432\u044b, \u0442\u0430\u043a\u043e\u0439 \u0434\u0438\u043d\u0430\u043c\u0438\u043a\u0438 \u043d\u0435 \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u0442\u0441\u044f \u0443 \u0431\u0435\u0437\u0434\u043e\u043c\u043d\u044b\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445. \u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438\u0445 \u0436\u0438\u0437\u043d\u0438, \u043f\u043e \u0440\u0430\u0437\u043d\u044b\u043c \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f\u043c, \u0432 \u0441\u0440\u0435\u0434\u043d\u0435\u043c \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043e\u0442 3 \u0434\u043e 5 \u043b\u0435\u0442.",
+        "\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438 \u043a\u043e\u0448\u043a\u0438 \u0432 \u0441\u0440\u0435\u0434\u043d\u0435\u043c \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 15 \u043b\u0435\u0442. \u042d\u0442\u0430 \u0446\u0438\u0444\u0440\u0430 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u0430. \u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0440\u043e\u0434\u044b \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0442\u0441\u044f \u043a\u0440\u0435\u043f\u043a\u0438\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435\u043c \u0438 \u0438\u0445 \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u044b\u0439 \u0446\u0438\u043a\u043b \u0434\u043b\u0438\u043d\u043d\u0435\u0435. \u041a\u043e\u0440\u043c\u0435 \u0442\u043e\u0433\u043e, \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0433\u043e \u0442\u0430\u043a\u0436\u0435 \u0432\u0430\u0436\u043d\u044b \u2014 \u0435\u0441\u0442\u044c \u043a\u043e\u0442\u044b-\u0434\u043e\u043b\u0433\u043e\u0436\u0438\u0442\u0435\u043b\u0438 (\u0441\u0430\u043c\u044b\u0439 \u0441\u0442\u0430\u0440\u044b\u0439 \u043f\u0440\u043e\u0436\u0438\u043b 38 \u043b\u0435\u0442). \u042d\u0442\u0430\u043f\u044b \u043a\u043e\u0448\u0430\u0447\u044c\u0435\u0433\u043e \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0446\u0438\u043a\u043b\u0430",
+        "04 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2022, 15:56 91989 (+79) \u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u043a\u043e\u0448\u0435\u043a \u043c\u043e\u0436\u043d\u043e \u043e\u0442\u043d\u0435\u0441\u0442\u0438 \u043a \u0434\u043e\u043b\u0433\u043e\u0436\u0438\u0442\u0435\u043b\u044f\u043c \u043f\u043e \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e \u043a \u0434\u0440\u0443\u0433\u0438\u043c \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c-\u043a\u043e\u043c\u043f\u0430\u043d\u044c\u043e\u043d\u0430\u043c, \u043e\u0434\u043d\u0430\u043a\u043e \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0435\u043a \u0434\u043b\u0438\u043d\u043d\u0435\u0435 \u043a\u043e\u0448\u0430\u0447\u044c\u0435\u0433\u043e \u0432 \u0441\u0440\u0435\u0434\u043d\u0435\u043c \u0432 5 \u0440\u0430\u0437.",
+        "\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u043b\u0435\u0442 \u0436\u0438\u0432\u0435\u0442 \u043a\u043e\u0448\u043a\u0430 \u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u043f\u0438\u0442\u043e\u043c\u0435\u0446 \u0438 \u0443\u043b\u0438\u0447\u043d\u0430\u044f \u043a\u043e\u0448\u043a\u0430 \u0431\u0435\u0437 \u0434\u043e\u043b\u0436\u043d\u043e\u0433\u043e \u0443\u0445\u043e\u0434\u0430 \u0438\u043c\u0435\u044e\u0442 \u043e\u0447\u0435\u043d\u044c \u043e\u0442\u043b\u0438\u0447\u043d\u0443\u044e \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438. 21 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2018 \u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f: \u0421\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435 \u0421\u043a\u043e\u043b\u044c\u043a\u043e \u0436\u0438\u0432\u0435\u0442 \u043a\u043e\u0448\u043a\u0430 \u0432 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445? \u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u043f\u0438\u0442\u043e\u043c\u0435\u0446 \u0438 \u0443\u043b\u0438\u0447\u043d\u0430\u044f \u043a\u043e\u0448\u043a\u0430 \u0431\u0435\u0437 \u0434\u043e\u043b\u0436\u043d\u043e\u0433\u043e \u0443\u0445\u043e\u0434\u0430 \u0438\u043c\u0435\u044e\u0442 \u043e\u0447\u0435\u043d\u044c \u043e\u0442\u043b\u0438\u0447\u043d\u0443\u044e \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438."
+      ]
+    },
+    {
+      "queries": [
+        "\u041a\u0430\u043a \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u043d\u0430?"
+      ],
+      "answer": [
+        "1. \u041b\u043e\u0436\u0438\u0442\u0435\u0441\u044c \u0441\u043f\u0430\u0442\u044c \u0438 \u043f\u0440\u043e\u0441\u044b\u043f\u0430\u0439\u0442\u0435\u0441\u044c \u0432 \u043e\u0434\u043d\u043e \u0438 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f \u041c\u043d\u043e\u0433\u0438\u0435 \u0438\u0437 \u043d\u0430\u0441 \u043f\u043e \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u043c \u0434\u0430\u044e\u0442 \u0441\u0435\u0431\u0435 \u043f\u043e\u0431\u043b\u0430\u0436\u043a\u0438 \u0438 \u0441\u043f\u044f\u0442 \u0447\u0443\u0442\u044c \u043b\u0438 \u043d\u0435 \u0434\u043e \u0441\u0430\u043c\u043e\u0433\u043e \u043e\u0431\u0435\u0434\u0430. \u041e\u0434\u043d\u0430\u043a\u043e \u0443\u0447\u0451\u043d\u044b\u0435 \u0441\u0447\u0438\u0442\u0430\u044e\u0442, \u0447\u0442\u043e \u0438\u0437-\u0437\u0430 \u0442\u0430\u043a\u043e\u0433\u043e \u043d\u0435\u043f\u043e\u0441\u0442\u043e\u044f\u043d\u0441\u0442\u0432\u0430 \u0441\u0431\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430\u0448\u0438 \u0446\u0438\u0440\u043a\u0430\u0434\u043d\u044b\u0435 \u0440\u0438\u0442\u043c\u044b. \u0423\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0441\u043e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0439 \u043f\u043e\u0434\u044a\u0451\u043c \u0438 \u043e\u0442\u0445\u043e\u0434 \u043a\u043e \u0441\u043d\u0443 \u0432 \u043e\u0434\u043d\u043e \u0438 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f. 2.",
+        "[1] \u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0432\u044b\u0437\u0434\u043e\u0440\u043e\u0432\u0435\u0435\u0442\u0435, \u043f\u043e\u0441\u0442\u0430\u0440\u0430\u0439\u0442\u0435\u0441\u044c \u0441\u043a\u043e\u0440\u0435\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043a \u043f\u0440\u0438\u0432\u044b\u0447\u043d\u043e\u043c\u0443 \u0440\u0435\u0436\u0438\u043c\u0443 \u0441\u043d\u0430. 2 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0433\u0440\u0430\u0444\u0438\u043a \u0441\u043d\u0430. \u0415\u0441\u043b\u0438 \u0432\u0440\u0435\u043c\u044f \u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u0432\u0430\u043c \u0441\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0433\u0440\u0430\u0444\u0438\u043a \u0441\u043d\u0430, \u043f\u043e\u0434\u0441\u0442\u0440\u043e\u0439\u0442\u0435 \u0435\u0433\u043e \u043f\u043e\u0434 \u0440\u0438\u0442\u043c\u044b \u0432\u0430\u0448\u0435\u0433\u043e \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0430. \u0412\u044b\u0434\u0435\u043b\u044f\u044e\u0442 \u0434\u0432\u0430 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0430 \u2014 \u0441\u043e\u043d \u0438 \u0431\u043e\u0434\u0440\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0435.",
+        "1. \u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u0443\u044e \u043e\u0431\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443. \u0412\u0430\u0448\u0430 \u0441\u043f\u0430\u043b\u044c\u043d\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u043c\u0435\u0441\u0442\u043e\u043c, \u0433\u0434\u0435 \u0432\u044b \u0447\u0443\u0432\u0441\u0442\u0432\u0443\u0435\u0442\u0435 \u0441\u0435\u0431\u044f \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e \u0438 \u0441\u043f\u043e\u043a\u043e\u0439\u043d\u043e. \u041f\u043e\u0434\u0431\u0435\u0440\u0438\u0442\u0435 \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0439 \u043c\u0430\u0442\u0440\u0430\u0441 \u0438 \u043f\u043e\u0434\u0443\u0448\u043a\u0443, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u044c\u0442\u0435 \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u0443\u044e \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0446\u0438\u044e \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0439\u0442\u0435 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0443 \u0432 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0438. \u0422\u0430\u043a\u0436\u0435 \u0443\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c, \u0447\u0442\u043e \u0432 \u0432\u0430\u0448\u0435\u0439 \u0441\u043f\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u0442 \u043b\u0438\u0448\u043d\u0435\u0433\u043e \u0448\u0443\u043c\u0430 \u0438 \u044f\u0440\u043a\u043e\u0433\u043e \u0441\u0432\u0435\u0442\u0430. 2. \u0421\u043e\u0431\u043b\u044e\u0434\u0430\u0439\u0442\u0435 \u0440\u0435\u0436\u0438\u043c \u0434\u043d\u044f.",
+        "\u041a\u0430\u043a \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0441\u043e\u043d \u0415\u0441\u043b\u0438 \u0432\u044b \u043f\u043b\u043e\u0445\u043e \u0441\u043f\u0438\u0442\u0435, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u043d\u044b\u043c\u0438 \u043d\u0438\u0436\u0435 \u0441\u043e\u0432\u0435\u0442\u0430\u043c\u0438. \u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u043d\u044f \u0424\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043d\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u041f\u0440\u0435\u0434\u0443\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u0443\u044e \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043d\u0430\u0433\u0440\u0443\u0437\u043a\u0443. \u041f\u0440\u0435\u043a\u0440\u0430\u0449\u0430\u0439\u0442\u0435 \u0437\u0430\u043d\u044f\u0442\u0438\u044f \u0437\u0430 2-3 \u0447\u0430\u0441\u0430 \u0434\u043e \u0441\u043d\u0430. \u041f\u043e\u043b\u0443\u0447\u0430\u0439\u0442\u0435 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439 \u0441\u0432\u0435\u0442 \u0421\u0442\u0430\u0440\u0430\u0439\u0442\u0435\u0441\u044c \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439 \u0441\u0432\u0435\u0442, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u043f\u043e \u0443\u0442\u0440\u0430\u043c.",
+        "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0440\u0438\u0442\u0443\u0430\u043b\u0430 \u0441\u043d\u0430 - \u044d\u0442\u043e \u043f\u0440\u043e\u0441\u0442\u043e \u043c\u0435\u0442\u043e\u0434 \u043f\u0440\u043e\u0431 \u0438 \u043e\u0448\u0438\u0431\u043e\u043a; \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0437\u0430\u043d\u044f\u0442\u044c\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u0432\u0430\u0441 \u0443\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u0435\u0442, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u0435\u0439, \u0447\u0442\u0435\u043d\u0438\u0435\u043c, \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435\u043c \u0442\u0435\u043f\u043b\u043e\u0439 \u0432\u0430\u043d\u043d\u044b \u0438\u043b\u0438 \u0434\u0443\u0448\u0430, \u043f\u0440\u043e\u0441\u043b\u0443\u0448\u0438\u0432\u0430\u043d\u0438\u0435\u043c \u0443\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u044e\u0449\u0435\u0439 \u043c\u0443\u0437\u044b\u043a\u0438 \u0438 \u0442. \u0434. \u041e\u0442\u043c\u0435\u0447\u0430\u0439\u0442\u0435 \u043c\u044b\u0441\u043b\u0435\u043d\u043d\u043e, \u043a\u0430\u043a\u0438\u0435 \u0437\u0430\u043d\u044f\u0442\u0438\u044f \u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 \u0432\u0430\u043c \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0435\u0435 \u0443\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0438\u0435 \u0438, \u043f\u043e\u0445\u043e\u0436\u0435, \u0443\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u044e\u0442 \u0438 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u044f\u044e\u0442 \u0432\u0430\u0441."
+      ]
+    }
+  ]
+}
